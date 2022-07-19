@@ -14,6 +14,7 @@ gem "webpacker"
 gem "whenever"
 
 gem "daemons"
+gem "delayed_job_active_record"
 gem "figaro", ">= 1.1.1"
 gem "openssl"
 
